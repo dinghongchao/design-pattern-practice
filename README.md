@@ -1,7 +1,7 @@
 # design-pattern-practice
-#设计模式练习
+# 设计模式练习
 
-##工厂模式(factory):
+## 工厂模式(factory):
 ```
 1. 简单工厂(simple)
 2. 工厂方法(func)
